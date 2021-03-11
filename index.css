@@ -1,0 +1,19 @@
+html, body{
+    width: 100%;
+    height: 100%;
+    padding: 0;
+    margin: 0;
+}
+
+body{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background: #f42069;
+    color: #ffe5ec;
+}
+
+.content{
+    text-align: center;
+    font-size: 3em;
+}
